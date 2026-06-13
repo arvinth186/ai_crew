@@ -1,5 +1,7 @@
 # 🤖 AI Investment Copilot
 
+![AI Investment Copilot](image/front.png)
+
 A full-stack AI-powered investment research platform built with **React + TypeScript** frontend and two independent **CrewAI + FastAPI** backends — one for content research and one for stock analysis.
 
 ---
